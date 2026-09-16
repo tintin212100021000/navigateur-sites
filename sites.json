@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "sites": [
+    { "name": "Radio France", "url": "https://www.radiofrance.fr" },
+    { "name": "France Info", "url": "https://www.franceinfo.fr" },
+    { "name": "Meteo France", "url": "https://meteofrance.com" }
+  ]
+}        
