@@ -1,7 +1,8 @@
 navaccess-mise-a-jour 1
-version 1.2
-adresse https://github.com/tintin212100021000/navigateur-sites/releases/download/v1.2/navaccess-1.2.zip
-sha256 649ac3edbba1da9215c2f7efba63c69db96759355c5b6364f0d55c14ebee0e58
-taille 93713122
-nouveaute À propos de navaccess indique le nombre de jetons d’activation restants.
-signature 8/2yvZ7D4bdKZiU+AUt1aA7ehRMwvBNzewADP6lw0wrsHAhCqvxr74GU5kQd2At0dXPIKE4L8t3h3vjAdjSgBQ==
+version 1.3
+adresse https://github.com/tintin212100021000/navigateur-sites/releases/download/v1.3/navaccess-1.3.zip
+sha256 4ccbca92b9fa97c412a766308f35f42629639e2cdcb6bad44a438263686ccaf5
+taille 93749917
+nouveaute Nouvelle fonction Radio : toutes les radios françaises en direct (Commande 6).
+nouveaute Commande P arrête la radio depuis n’importe quel outil ; Commande Majuscule P la met en pause.
+signature wRAV8SBRBA1Gcv/vkUISFgtNTUFBlwHcigEmvOdJtWB1jfHg0spjrEzIPDSzVdNKx7IomkX6/OdkmzcFwwzaCQ==
