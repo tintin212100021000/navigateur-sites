@@ -1,9 +1,7 @@
 navaccess-mise-a-jour 1
-version 1.1
-adresse https://github.com/tintin212100021000/navigateur-sites/releases/download/v1.1/navaccess-1.1.zip
-sha256 bde0a870801852561a502b1e86ac71cea0fbfdfa6290889fee66bfc87743c128
-taille 93712584
-nouveaute Jetons d’activation : chaque licence peut être activée 3 fois sur ce Mac.
-nouveaute Nouvelle action Désactiver la licence, dans la fenêtre Licence de navaccess.
-nouveaute Recherche et installation automatiques des mises à jour.
-signature eC9+jnu/3p0E8HRfksacQYP+hLwAZ90Xl/zPdE2dkYoIH5HGpXmkx3lmfKNSWn2cFf7BHbhUEyTC7+FerthnCQ==
+version 1.2
+adresse https://github.com/tintin212100021000/navigateur-sites/releases/download/v1.2/navaccess-1.2.zip
+sha256 649ac3edbba1da9215c2f7efba63c69db96759355c5b6364f0d55c14ebee0e58
+taille 93713122
+nouveaute À propos de navaccess indique le nombre de jetons d’activation restants.
+signature 8/2yvZ7D4bdKZiU+AUt1aA7ehRMwvBNzewADP6lw0wrsHAhCqvxr74GU5kQd2At0dXPIKE4L8t3h3vjAdjSgBQ==
