@@ -1,3 +1,4 @@
 navaccess-activations 1
-date 2026-09-23T10:11:33Z
-signature ur5St7jnMdzwRn3EqfL8OqxH1Ca28zFe2bJ7K4rMOZGXVoUIik2S2xnGls30l7zndvr1v0PfJTzByWgJCYMLAw==
+date 2026-09-23T10:47:06Z
+d5f9c56bfb1c91e2929b03517e1b79c9fdb7640c9ca15ca21dfad7d6ea47bbf5
+signature 7ITSdguRFMwHwJ2pOsrlik+Uwo9JYIIcicco6hJOp0mPW43pcDkSA03/hYL4Vmn58uOvhyI26ULzWHqT/r58DQ==
