@@ -1,8 +1,14 @@
 navaccess-mise-a-jour 1
-version 1.3
-adresse https://github.com/tintin212100021000/navigateur-sites/releases/download/v1.3/navaccess-1.3.zip
-sha256 4ccbca92b9fa97c412a766308f35f42629639e2cdcb6bad44a438263686ccaf5
-taille 93749917
-nouveaute Nouvelle fonction Radio : toutes les radios françaises en direct (Commande 6).
-nouveaute Commande P arrête la radio depuis n’importe quel outil ; Commande Majuscule P la met en pause.
-signature wRAV8SBRBA1Gcv/vkUISFgtNTUFBlwHcigEmvOdJtWB1jfHg0spjrEzIPDSzVdNKx7IomkX6/OdkmzcFwwzaCQ==
+version 1.5
+adresse https://github.com/tintin212100021000/navigateur-sites/releases/download/v1.5/navaccess-1.5.zip
+sha256 be99c156998ef208efd11701712d69e6b44491fca17ea523aae89394c359fb01
+taille 93822949
+nouveaute Radio : chaque radio n'apparaît plus qu'une fois, et les radios dont le nom n'est pas lisible par VoiceOver (écritures non latines) sont retirées.
+nouveaute Radio : nouveau dossier Divers, avec les radios du monde entier (hors France). Radios françaises ne garde que les radios de France.
+nouveaute Nouveau : Réinitialiser les préférences, dans les Options et le menu navaccess. Vous cochez ce que vous voulez remettre à zéro ; la licence n'est jamais touchée.
+nouveaute Au premier lancement, vous choisissez d'utiliser navaccess avec ou sans mot de passe. Les Options permettent ensuite d'en créer un, de le changer ou de le supprimer.
+nouveaute Accueil : nouvelle ligne Options, qui réunit au même endroit toutes les options générales (sites, micro, mot de passe, réinitialisation des préférences, mises à jour, licence).
+nouveaute Programme TV : la TNT donne exactement ses 26 chaînes officielles. Nouveau choix « Chaînes de mon fournisseur internet » : Free, Orange, SFR ou Bouygues Telecom. Commande U repose les questions puis met à jour. Chaque programme indique « de telle heure à telle heure », avec un résumé court.
+nouveaute Programme TV : Entrée sur un programme lit tout son résumé.
+nouveaute Programme TV : avec un fournisseur internet, les chaînes portent leur numéro de la box (Free, Orange, SFR ou Bouygues Telecom) et sont rangées dans cet ordre.
+signature rDyjqcPTFX+hjlQ30YyGE+8uaLQ3K0bJ2F//hTTVpok9xdDtuBaKWJqgCY4Zy1umPlmMJgCpTxLeU0B2w8f2CA==
