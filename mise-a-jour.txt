@@ -1,7 +1,8 @@
 navaccess-mise-a-jour 1
-version 1.6
-adresse https://github.com/tintin212100021000/navigateur-sites/releases/download/v1.6/navaccess-1.6.zip
-sha256 298e1ea8d31e946a70900214292bde6b8dcac3c7f3b3dce19d6120b0f81cd9f0
-taille 93830018
-nouveaute Programme TV : nouveau champ Jour. Depuis la liste, Tabulation, puis tapez un jour (par exemple mercredi, demain ou le 28) et Entrée : seul le programme de ce jour-là s'affiche. Le programme du jour reste affiché à l'ouverture, comme avant.
-signature W/w9XLsMFl3aCEk6WI8EAUl8mWAplW2dhqZvUIZG75ESmKTEJ7uYWgPlhHZA3MzM1XvgfTkfCDwJTWbwQJ9ODQ==
+version 2.0
+adresse https://github.com/tintin212100021000/navigateur-sites/releases/download/v2.0/navaccess-2.0.zip
+sha256 42090b1b8873310da5341a2ba281b4fca452af5c408d403edf77aee6af0361b2
+taille 93231719
+nouveaute navaccess est maintenant certifié par Apple : plus aucun message d'avertissement à l'ouverture.
+nouveaute Nouvelle icône : un aigle blanc sur un ciel bleu nuit.
+signature OKi5N2LTmvhKcOGdjAube2J62dO9mGB2t+1FfAr6bJIrb5ZtxO5ZNbAEpFxyNi8NbURyykDPv+/EEOBdUwJXAQ==
