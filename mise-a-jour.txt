@@ -1,8 +1,10 @@
 navaccess-mise-a-jour 1
-version 2.0
-adresse https://github.com/tintin212100021000/navigateur-sites/releases/download/v2.0/navaccess-2.0.zip
-sha256 42090b1b8873310da5341a2ba281b4fca452af5c408d403edf77aee6af0361b2
-taille 93231719
-nouveaute navaccess est maintenant certifié par Apple : plus aucun message d'avertissement à l'ouverture.
-nouveaute Nouvelle icône : un aigle blanc sur un ciel bleu nuit.
-signature OKi5N2LTmvhKcOGdjAube2J62dO9mGB2t+1FfAr6bJIrb5ZtxO5ZNbAEpFxyNi8NbURyykDPv+/EEOBdUwJXAQ==
+version 2.0.1
+adresse https://github.com/tintin212100021000/navigateur-sites/releases/download/v2.0.1/navaccess-2.0.1.zip
+sha256 23eb412e461ac12577a77d711f88210becc14ec6f50974c18fed04f3c4d1baa1
+taille 93155217
+nouveaute Vos sites sont maintenant chiffrés avec votre mot de passe : sans lui, ils sont illisibles.
+nouveaute Au premier lancement, une nouvelle clé de récupération vous est remise : notez-la, l'ancienne ne fonctionne plus.
+nouveaute Sécurité renforcée de l'application.
+nouveaute Nouvelle adresse de contact : navaccess@icloud.com.
+signature NyZY6RINVqV21AUoEqj9bQYGA3m+OHkY2IMNYlPbq28Bo3pQxn5W+Yq0za2ja0qnczgLopcgrNVICTMgsRqDCQ==
