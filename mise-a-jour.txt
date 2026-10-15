@@ -1,10 +1,10 @@
 navaccess-mise-a-jour 1
-version 2.0.1
-adresse https://github.com/tintin212100021000/navigateur-sites/releases/download/v2.0.1/navaccess-2.0.1.zip
-sha256 23eb412e461ac12577a77d711f88210becc14ec6f50974c18fed04f3c4d1baa1
-taille 93155217
+version 2.2
+adresse https://github.com/tintin212100021000/navigateur-sites/releases/download/v2.2/navaccess-2.2.zip
+sha256 3e909b6b720521ae7c3cbb759a8cb27262f79caead95d153a22c0eceb3fea90a
+taille 93155165
 nouveaute Vos sites sont maintenant chiffrés avec votre mot de passe : sans lui, ils sont illisibles.
 nouveaute Au premier lancement, une nouvelle clé de récupération vous est remise : notez-la, l'ancienne ne fonctionne plus.
 nouveaute Sécurité renforcée de l'application.
 nouveaute Nouvelle adresse de contact : navaccess@icloud.com.
-signature NyZY6RINVqV21AUoEqj9bQYGA3m+OHkY2IMNYlPbq28Bo3pQxn5W+Yq0za2ja0qnczgLopcgrNVICTMgsRqDCQ==
+signature 9ql6rP01tT6Z86ACGCo0bzi/8aG1jyQURwWJguq7E8OxqxQwazLAr4lYu4e9X0jAlzQOtsJ+Wn1qbsB1B/FjDA==
