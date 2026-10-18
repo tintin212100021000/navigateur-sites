@@ -1,7 +1,8 @@
 navaccess-mise-a-jour 1
-version 3.1.2
-adresse https://github.com/tintin212100021000/navigateur-sites/releases/download/v3.1.2/navaccess-3.1.2.zip
-sha256 2f3e4e69a761f71ee0a61a7573c1c453aaecc2d6342e76f61476f7c34ec44e19
-taille 93727567
-nouveaute Chat : VoiceOver annonce qui arrive dans le salon et qui le quitte. Réglable dans les réglages du chat (Commande R).
-signature utdfxYNA0rAlz4FRJpE+BYTNhmpw7QqEM9wt2cr9jETqgOlggRN6jKV9L8f0+OFU9t6y5cR2RzJPgfBMe16bBw==
+version 3.1.3
+adresse https://github.com/tintin212100021000/navigateur-sites/releases/download/v3.1.3/navaccess-3.1.3.zip
+sha256 fae44f63bcc84bb53bdbbb79af4b73b0940c472a3c8985dda9a48bfb0f321864
+taille 93728512
+nouveaute Licences : la vérification se fait désormais sur le serveur de navaccess.fr, plus rapide et plus fiable.
+nouveaute Sécurité renforcée : une copie modifiée de navaccess est refusée.
+signature SfcXSaD5wTieFMOiI+gxC0LsZpHT7XUhDFNW+fcdRcqy3hzSNst31vmKJK2l4skugjJxfQjRL007Bx7pCFZgAA==
