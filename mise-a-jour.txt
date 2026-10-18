@@ -1,9 +1,7 @@
 navaccess-mise-a-jour 1
-version 3.1.1
-adresse https://github.com/tintin212100021000/navigateur-sites/releases/download/v3.1.1/navaccess-3.1.1.zip
-sha256 aaa44bb8df159699909b15889c80d03c09510e274e9ca881ce59cd4d8ca7f30e
-taille 93726346
-nouveaute Chat : messages privés. Commande D dans le chat, ou Entrée sur un message puis Écrire en privé. On écrit à une personne connectée ; les messages s'effacent au bout de 24 heures.
-nouveaute Chat : bloquer une personne, ou refuser tous les messages privés, dans les réglages du chat (Commande R).
-nouveaute Chat : nouvelles règles pour les pseudos (4 à 24 caractères, pas de mot grossier) et mot de passe avec au moins une majuscule.
-signature qp/4H05m/WE1EKdKITk00jA7VelTazsQBI5hT0ByE/77Vbgqglc/Fedtri0mtjOrDOmlADqAV+9zcTzLt+ZnDw==
+version 3.1.2
+adresse https://github.com/tintin212100021000/navigateur-sites/releases/download/v3.1.2/navaccess-3.1.2.zip
+sha256 2f3e4e69a761f71ee0a61a7573c1c453aaecc2d6342e76f61476f7c34ec44e19
+taille 93727567
+nouveaute Chat : VoiceOver annonce qui arrive dans le salon et qui le quitte. Réglable dans les réglages du chat (Commande R).
+signature utdfxYNA0rAlz4FRJpE+BYTNhmpw7QqEM9wt2cr9jETqgOlggRN6jKV9L8f0+OFU9t6y5cR2RzJPgfBMe16bBw==
