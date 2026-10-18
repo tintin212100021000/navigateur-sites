@@ -1,12 +1,7 @@
 navaccess-mise-a-jour 1
-version 3.0
-adresse https://github.com/tintin212100021000/navigateur-sites/releases/download/v3.0/navaccess-3.0.zip
-sha256 7a4f994f484010e3b4a2ad02508239c22b6029f68b57d05de5db765e8d465874
-taille 93536615
-nouveaute Nouvel outil Podcasts : thématiques, recherche, podcasts suivis, reprise là où vous en étiez, vitesse de lecture (Commande 7).
-nouveaute Nouvel outil Lecteur de documents : lit les PDF, photos, documents Word et captures d'écran, sans Internet, avec un explorateur intégré (Commande 8).
-nouveaute Radio : favoris (Commande B) et recherche d'une radio par son nom.
-nouveaute Radio et podcasts : mise en veille de 15 minutes à 2 heures, ou à une heure précise. Nouveau réveil avec la radio.
-nouveaute Au démarrage, le logo de navaccess s'affiche 4 secondes, avec « Chargement de navaccess ».
-nouveaute navaccess parle maintenant 5 langues : français, anglais, espagnol, allemand et italien (choix au premier lancement, puis dans les Options).
-signature yhzH027M1vs5/WLiqAAk7IZWVgxrQjJSi8HKC9msZh88JnTS0kCrxzODQRyBksU4ipJrX/TETWuOO0+RSdi+Aw==
+version 3.1
+adresse https://github.com/tintin212100021000/navigateur-sites/releases/download/v3.1/navaccess-3.1.zip
+sha256 5525a698bf87964fc77511b4bdcb0d8a9d40ae0219810186eae66f95b98b987f
+taille 93705349
+nouveaute Nouvel outil Chat (Commande Majuscule T) : discutez en direct avec les autres utilisateurs de navaccess, dans un salon par langue. Réservé aux licences et aux personnes de 18 ans et plus.
+signature jXUOhDRm+H4iNppIToJacUSBfOI49Sl11TYELeng/5oLtVWiw6jJNuBZxUgo64Tc4TmIT/Ul8Ciws2LqjiHBCA==
