@@ -1,9 +1,7 @@
 navaccess-mise-a-jour 1
-version 3.1.4
-adresse https://github.com/tintin212100021000/navigateur-sites/releases/download/v3.1.4/navaccess-3.1.4.zip
-sha256 c9a6e3897368837948e671f562344b9241a958eb3255fc6b427ff7594dd2d417
-taille 93731482
-nouveaute Licences : la vérification se fait désormais sur le serveur de navaccess.fr, plus rapide et plus fiable.
-nouveaute Jetons d’activation : ils sont désormais comptés par le serveur de navaccess.
-nouveaute Sécurité renforcée : une copie modifiée de navaccess est refusée.
-signature j5/c/Gal6CetePh09VRr5YkPx/UE6lCCRbNBanYdJYdR92fizUrdls602Rakr20y6j3C543Tno7sdJaC2Pc/AA==
+version 3.1.5
+adresse https://github.com/tintin212100021000/navigateur-sites/releases/download/v3.1.5/navaccess-3.1.5.zip
+sha256 607f1c5e8b558c37c14d2380b3ff9cfd91b984e8779f30d3c66b9a849eae841b
+taille 93731442
+nouveaute Licences : vérification en écoute permanente du serveur de navaccess.fr. Une licence retirée est prise en compte en une ou deux secondes.
+signature I5w86SR14Sfh6EJ36CzQDQV/qGMNo4gzSp/B1y5KrNj2RAW5e/A0+XLULf9ZR/hTCiphF4YDujFHMryhDH5rAw==
