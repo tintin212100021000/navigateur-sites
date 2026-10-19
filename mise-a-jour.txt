@@ -1,7 +1,7 @@
 navaccess-mise-a-jour 1
-version 3.1.5
-adresse https://github.com/tintin212100021000/navigateur-sites/releases/download/v3.1.5/navaccess-3.1.5.zip
-sha256 607f1c5e8b558c37c14d2380b3ff9cfd91b984e8779f30d3c66b9a849eae841b
-taille 93731442
-nouveaute Licences : vérification en écoute permanente du serveur de navaccess.fr. Une licence retirée est prise en compte en une ou deux secondes.
-signature I5w86SR14Sfh6EJ36CzQDQV/qGMNo4gzSp/B1y5KrNj2RAW5e/A0+XLULf9ZR/hTCiphF4YDujFHMryhDH5rAw==
+version 3.1.6
+adresse https://github.com/tintin212100021000/navigateur-sites/releases/download/v3.1.6/navaccess-3.1.6.zip
+sha256 90395ed8a1b456fc23b49393c43fc319ece851033b0321bfe854c4230d591662
+taille 93731470
+nouveaute Mises à jour et liste des sites proposés : désormais sur le serveur de navaccess.fr.
+signature 5DOvaZntea8FHzWCTp7qhnlJLK7xKNqAt0v3hnvxnKBE2Xhs72oUUKwEMHyhAA948wngsfP6YTHjmorI0vQPDw==
